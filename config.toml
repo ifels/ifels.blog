@@ -1,0 +1,25 @@
+baseurl = "http://blog.hugoexample.com/"
+languageCode = "en-us"
+title = "Hugo Example Blog"
+canonifyurls = true
+
+[params]
+    sidebartitle = "My Site"
+    sidebartagline = "Is super awesome"
+    sidebarphoto = "/img/photo.png"
+    duoshuoShortname = "tonybaicom"
+    disqusShortname = "ifels.cn"
+    highlightStyle = "solarized_dark"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/posts"
+
+[[menu.social]]
+    pre = "<i class='fa fa-twitter'></i>"
+    url = "http://www.twitter.com/shift8creative"
+    identifier = "twitter"
+
+[[menu.footer]]
+    name = "Blog"
+    url = "/posts"
