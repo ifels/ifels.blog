@@ -7,13 +7,13 @@ canonifyurls = true
     sidebartitle = "ifels"
     sidebartagline = "coding life"
     sidebarphoto = "/img/photo.png"
-    duoshuoShortname = "tonybaicom"
+    duoshuoShortname = "ifels.cn"
     disqusShortname = "ifels.cn"
     highlightStyle = "solarized_dark"
 
 [[menu.main]]
     name = "Blog"
-    url = "/posts"
+    url = "/post"
 
 [[menu.social]]
     pre = "<i class='fa fa-twitter'></i>"

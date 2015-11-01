@@ -1,11 +1,9 @@
 +++
-title = "Lua OOP 实现"
-description = "Nothing special, but one post is boring."
-date = "2014-09-02"
-categories = [ "example"]
-tags = [
-    "lua"
-]
+title =  "Lua OOP 实现"
+description =  "Lua 实现面向对象编程"
+date =  "2015-11-01"
+categories = [ "code" ]
+tags = [ "lua" ]
 +++
 
 lua OOP 实现
