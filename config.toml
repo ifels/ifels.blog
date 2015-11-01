@@ -1,11 +1,11 @@
 baseurl = "http://blog.hugoexample.com/"
 languageCode = "en-us"
-title = "Hugo Example Blog"
+title = "ifels's blog"
 canonifyurls = true
 
 [params]
-    sidebartitle = "My Site"
-    sidebartagline = "Is super awesome"
+    sidebartitle = "ifels"
+    sidebartagline = "coding life"
     sidebarphoto = "/img/photo.png"
     duoshuoShortname = "tonybaicom"
     disqusShortname = "ifels.cn"
