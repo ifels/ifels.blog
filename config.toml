@@ -1,4 +1,4 @@
-baseurl = "http://blog.hugoexample.com/"
+baseurl = "http://121.40.133.140:5050/"
 languageCode = "en-us"
 title = "ifels's blog"
 canonifyurls = true
@@ -6,7 +6,6 @@ canonifyurls = true
 [params]
     sidebartitle = "ifels"
     sidebartagline = "coding life"
-    sidebarphoto = "/img/photo.png"
     duoshuoShortname = "ifels.cn"
     disqusShortname = "ifels.cn"
     highlightStyle = "solarized_dark"
