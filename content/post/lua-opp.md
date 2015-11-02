@@ -6,6 +6,10 @@ categories = [ "code" ]
 tags = [ "lua" ]
 +++
 
+
+使用lua 模拟面向对象编程.
+<!--more-->
+
 lua OOP 实现
 -------------------------
 
