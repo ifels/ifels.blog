@@ -1,5 +1,5 @@
 +++
-title =  "test"
+title =  "test2"
 description =  "test"
 date =  "2015-11-03"
 categories = [ "test" ]
@@ -7,7 +7,7 @@ tags = [ "test" ]
 +++
 
 
-test
+test2
 -------
 
 lua OOP 实现
