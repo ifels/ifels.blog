@@ -1,0 +1,3 @@
+[submodule "bundle/vim-pathogen"]
+    path = public
+    url = git@github.com:ifels/ifels.github.com.git
