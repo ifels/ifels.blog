@@ -1,4 +1,4 @@
-baseurl = "http://121.40.133.140:5050/"
+baseurl = "http://ifels.cn"
 languageCode = "en-us"
 title = "ifels's blog"
 canonifyurls = true
@@ -6,7 +6,6 @@ canonifyurls = true
 [params]
     sidebartitle = "ifels"
     sidebartagline = "coding life"
-    duoshuoShortname = "ifels.cn"
     disqusShortname = "ifels.cn"
     highlightStyle = "solarized_dark"
 
@@ -16,7 +15,7 @@ canonifyurls = true
 
 [[menu.social]]
     pre = "<i class='fa fa-twitter'></i>"
-    url = "http://www.twitter.com/shift8creative"
+    url = "http://www.twitter.com/ifels"
     identifier = "twitter"
 
 [[menu.footer]]

@@ -98,7 +98,9 @@
             {{ end }}
           </section>
           {{ if not .Params.nocomment }}
-          	{{ template "_internal/disqus.html" . }}
+                {{ if and (isset .Site.Params "disqusShortname") (ne .Site.Params.disqusShortname "") }} 
+                    {{ partial "duoshuo" . }} 
+                {{ end }}
           {{ end }}
         
       {{ partial "footer.html" . }}
